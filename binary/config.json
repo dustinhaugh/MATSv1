@@ -1,0 +1,9 @@
+{
+    "comPort": "COM9",
+    "gps_altitude": 2993.0,
+    "gps_latitude": 43.049511,
+    "gps_longitude": -115.866452,
+    "ipAddress": "0.0.0.0",
+    "port": 3000,
+    "targetMarking": "0163"
+}
